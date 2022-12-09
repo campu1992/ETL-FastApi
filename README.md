@@ -14,16 +14,15 @@
 
 ## **Introducción**  
 
-Mi nombre es Carlos Campuzano, este es mi primer proyecto de ETL para la academia SoyHenry.
-La idea de este proyecto es internalizar los conocimientos requeridos para la elaboración y ejecución de una API.
+Mi nombre es Carlos Campuzano de DATA05, este es mi primer proyecto de ETL para Henry.
+La idea de este proyecto es interiorizar los conocimientos aprendidos en las clases y ser capaz de realizar todo el proceso de ETL para posteriormente hacer la elaboración y ejecución de una API.
 
 
 
 ## **Propuesta de trabajo**
 
-El proyecto consiste en realizar una ingesta de datos desde diversas fuentes, posteriormente aplicar las transformaciones que consideren pertinentes, y luego disponibilizar los datos limpios para su consulta a través de una API. Esta API deberán construirla en un entorno virtual dockerizado.
+El proyecto consiste en realizar una ingesta de datos que nos proporciona Henry, posteriormente aplicar las transformaciones que consideren pertinentes, y luego disponibilizar los datos limpios para realizar las consultas a través de una API. 
 
-Los datos serán provistos en archivos de diferentes extensiones, como *csv* o *json*. Se espera que realicen un EDA para cada dataset y corrijan los tipos de datos, valores nulos y duplicados, entre otras tareas. Posteriormente, tendrán que relacionar los datasets así pueden acceder a su información por medio de consultas a la API.
 
 Las consultas a realizar son:
 
@@ -66,7 +65,7 @@ Las consultas a realizar son:
 
 4. Realizar consultas solicitadas
 
-6. Video demostrativo: 
+6. Video demostrativo: https://vimeo.com/779502968
 
 
 ## **Conclusión**  
