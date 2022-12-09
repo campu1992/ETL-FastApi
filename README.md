@@ -1,7 +1,5 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
-# <h1 align=center>**`Data Engineering`**</h1>
-
 <p align="center">
 <img src="https://images.prismic.io/northcoders/1d4f4f17-ee87-454c-8db0-6e7f4974a312_Screen+Shot+2022-08-24+at+11.41.11.png?auto=compress%2Cformat&rect=0%2C0%2C1914%2C1072&w=800&fit=max&q=60"  height=300>
 </p>
@@ -12,7 +10,7 @@
 
 ## **Introducción**  
 
-Mi nombre es Carlos Campuzano de DATA05, este es mi primer proyecto de ETL para Henry.
+Mi nombre es Carlos Campuzano de DATA05, este es mi primer proyecto de Data Engineering para Henry.
 La idea de este proyecto es interiorizar los conocimientos aprendidos en las clases y ser capaz de realizar todo el proceso de ETL para posteriormente hacer la elaboración y ejecución de una API.
 
 
