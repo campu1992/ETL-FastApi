@@ -1,5 +1,3 @@
-<p align=center><img src=https://files.realpython.com/media/Data-Engineer-Interview-Questions-With-Python_Watermarked.6d30e181f8ae.jpg><p>
-
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
 # <h1 align=center>**`Data Engineering`**</h1>
